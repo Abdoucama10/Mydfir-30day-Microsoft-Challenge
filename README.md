@@ -35,6 +35,10 @@ I aim to show continuous learning through practical, real-world labs that teach 
 - **Network:** VNet (windows11-vnet/default)
 - **Roles:** SOC Analyst role  
 - **Log Analytics:** Single Log Analytics workspace for Sentinel
+- - **Connected Data Sources:**
+  - Microsoft 365
+  - Defender for Endpoint
+  - **XDR (Extended Detection and Response) from Microsoft Content Hub**
 
 ---
 
