@@ -8,7 +8,7 @@ I aim to show continuous learning through practical, real-world labs that teach 
 ---
 
 ## 📘 Project Overview
-**The MyDFIR 30-Day Microsoft Challenge** documents 30 days learning to build and operate a Cloud SOC using Microsoft security tools.
+**The MyDFIR 30-Day Microsoft Challenge is a hands-on learning journey that spans 30 days, focused on building and operating a cloud-based Security Operations Center (SOC) using Microsoft security tools.**
 
 **Tools used**
 - Microsoft Sentinel  
@@ -21,7 +21,9 @@ I aim to show continuous learning through practical, real-world labs that teach 
 - SOC environment setup and configuration  
 - KQL (Kusto Query Language) for detection & hunting  
 - Incident investigation and reporting  
-- Dashboarding and reporting in Sentinel
+- Install Microsoft Defender XDR connector
+- Create Analytics rule in Defender XDR
+
 
 ---
 
