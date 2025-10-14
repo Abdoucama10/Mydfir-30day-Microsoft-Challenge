@@ -27,7 +27,7 @@ I aim to show continuous learning through practical, real-world labs that teach 
 
 ---
 ## Current Soc Diagram
-![SOC Lab Architecture](Soc-Diagram.png)
+![SOC Lab Architecture](Soc-Arch-Diagram.png)
 
 ## 🧰 Current Lab Environment
 - **Cloud:** Microsoft Azure (Subscription: *abdou*****@.onmicrosoft.com*)  
@@ -36,7 +36,7 @@ I aim to show continuous learning through practical, real-world labs that teach 
 - **Endpoints:** 1 Windows VM (windows11)
 - **Network:** VNet (windows11-vnet/default)
 - **Roles:** SOC Analyst role  
-- **Log Analytics:** Single Log Analytics workspace for Sentinel
+- **Log Analytics:** (Mydfir-abdou-law)
 - - **Connected Data Sources:**
   - Microsoft 365
   - Defender for Endpoint
