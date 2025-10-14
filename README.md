@@ -26,6 +26,8 @@ I aim to show continuous learning through practical, real-world labs that teach 
 
 
 ---
+## Current Soc Diagram
+![SOC Lab Architecture](Soc-Diagram.png)
 
 ## 🧰 Current Lab Environment
 - **Cloud:** Microsoft Azure (Subscription: *abdou*****@.onmicrosoft.com*)  
@@ -55,5 +57,8 @@ I aim to show continuous learning through practical, real-world labs that teach 
 - [ ] Email Investigations 
 
 ---
+
+
+
 
 ## 🗂 Repository Structure
