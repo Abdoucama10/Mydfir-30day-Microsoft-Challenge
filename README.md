@@ -15,7 +15,6 @@ I aim to show continuous learning through practical, real-world labs that teach 
 - Microsoft Azure  
 - Microsoft Defender for Endpoint  
 - Microsoft 365 Security  
-- Entra ID
 
 **Skills practiced**
 - SOC environment setup and configuration  
