@@ -63,7 +63,7 @@ The goal of this challenge is to gain hands-on experience in modern cloud SOC op
 ### 🔍 What I Built and Investigated
 - Deployed and configured a **Microsoft Sentinel workspace** connected to Azure resources  
 - Integrated **Defender for Endpoint** and **XDR** data connectors  
-- Created a **custom SOC dashboard** for log visibility (Screenshots in `Dahsboards/screenshots`)  
+- Created a **custom SOC dashboard** for log visibility (Screenshots in `Dashboards/screenshots`)  
 - Investigated a **brute-force attack simulation** and documented findings  
 
 ---
