@@ -14,7 +14,7 @@
 
 I recently joined the **MyDFIR SOC Communty Program**, which is designed to help participants gain **hands-on experience** and develop **job-ready cybersecurity skills** through practical labs, guided projects, and real-world simulations.  
 
-As part of this journey, I’m sharing my work on the **Microsoft 30-Day Security Challenge**, one of several projects within the program. 
+As part of this journey, I’m sharing my work on the **Microsoft 30-Day Challenge**, one of several projects within the program. 
 
 By documenting my progress, I aim to showcase my technical growth, demonstrate my ability to apply SOC concepts in real-world scenarios, and strengthen my expertise in cybersecurity operations.
 
@@ -48,7 +48,7 @@ The goal of this challenge is to gain hands-on experience in modern cloud SOC op
 - **Cloud:** Microsoft Azure (Subscription: *abdou*****@.onmicrosoft.com*)  
 - **SOC:** Microsoft Sentinel (Workspace: *Mydfir-abdou*)  
 - **Resource Group:** (mydfir-challenge)
-- **Endpoints:** 1 Windows VM (windows11)
+- **Endpoint:** 1 Windows VM (windows11)
 - **Network:** VNet (windows11-vnet/default)
 - **Roles:** SOC Analyst role  
 - **Log Analytics:** (Mydfir-abdou-law)
@@ -78,7 +78,7 @@ The goal of this challenge is to gain hands-on experience in modern cloud SOC op
 - Document and report **incidents** 
 
 ### 🌟 Most Impactful Experience
-Investigating my first simulated **brute-force attack** using Sentinel data — seeing how logs, alerts, and detections connect in a real SOC environment.
+Investigating my first simulated **brute-force attack** using Sentinel data, seeing how logs, alerts, and detections connect in a real SOC environment.
 
 ### 🚀 Areas for Improvement
 - Expand my **KQL query skills** for deeper investigations.  
