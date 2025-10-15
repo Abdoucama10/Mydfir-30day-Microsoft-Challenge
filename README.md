@@ -37,7 +37,7 @@ The goal of this challenge is to gain hands-on experience in modern cloud SOC op
 - KQL (Kusto Query Language) for detection & hunting  
 - Incident investigation and reporting  
 - Install Microsoft Defender XDR connector
-- Create Analytics rule in Defender XDR
+- Create Log Analytics Workspace
 
 
 ---
