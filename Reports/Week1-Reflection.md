@@ -18,7 +18,7 @@ I set up my lab environment, connected Defender for Endpoint and XDR, and explor
 - Gained hands-on experience with **Sentinel setup and integration**.  
 - Learned to query and visualize data using **KQL**.  
 - Understood the importance of **data connectors and visibility** in a SOC.  
-- Strengthened my ability to **analyze and report incidents** using the MITRE ATT&CK framework.
+- Strengthened my ability to **analyze and report incidents**.
 
 ---
 
