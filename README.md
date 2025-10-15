@@ -1,6 +1,15 @@
 
 # 🛡️ MYDFIR 30-Day Microsoft Challenge
 
+
+## 📘 Table of Contents
+- [🎯 Purpose](#-purpose)
+- [📘 Project Overview](#-project-overview)
+- [Current SOC Diagram](#current-soc-diagram)
+- [🧰 Current Lab Environment](#-current-lab-environment)
+- [🔍 What I Built and Investigated](#-what-i-built-and-investigated)
+- [🏁 Summary of Results](#-summary-of-results--week-1)
+
 ## 🎯 Purpose
 
 I recently joined the **MyDFIR SOC Communty Program**, which is designed to help participants gain **hands-on experience** and develop **job-ready cybersecurity skills** through practical labs, guided projects, and real-world simulations.  
@@ -43,22 +52,39 @@ The goal of this challenge is to gain hands-on experience in modern cloud SOC op
 - **Network:** VNet (windows11-vnet/default)
 - **Roles:** SOC Analyst role  
 - **Log Analytics:** (Mydfir-abdou-law)
-- - **Connected Data Sources:**
-  - Microsoft 365
-  - Defender for Endpoint
-  - **XDR (Extended Detection and Response) from Microsoft Content Hub**
+
+**Connected Data Sources:**  
+- Microsoft 365  
+- Defender for Endpoint  
+- XDR (Extended Detection and Response) from Microsoft Content Hub
 
 ---
 
-## 📦 Resources Created So Far
-- [x] Azure Subscription  
-- [x] Create Azure VM 
-- [x] Microsoft Sentinel workspace  
-- [x] Connected Data Connectors: Microsoft 365, Defender for Endpoint, Entra ID  
-- [x] Custom Workbook / Dashboard (Screenshots in `/Screenshots`)  
-- [x] Bookmarks for investigations  
-- [x] Initial KQL queries and saved queries  
-- [ ] Email Investigations 
+### 🔍 What I Built and Investigated
+- Deployed and configured a **Microsoft Sentinel workspace** connected to Azure resources  
+- Integrated **Defender for Endpoint** and **XDR** data connectors  
+- Created a **custom SOC dashboard** for log visibility (Screenshots in `Dahsboards/screenshots`)  
+- Investigated a **brute-force attack simulation** and documented findings  
+
+---
+
+## 🏁 Summary of Results — Week 1
+
+### 💡 What I Can Do Now
+- Deploy and configure a **Microsoft Sentinel SOC** with connected data sources  
+- Build **custom dashboards** and write **KQL queries**  
+- Connect and manage **data connectors** (Defender for Endpoint, XDR)
+- Build and customize **SOC dashboards** for visibility and monitoring.
+- Document and report **incidents** 
+
+### 🌟 Most Impactful Experience
+Investigating my first simulated **brute-force attack** using Sentinel data — seeing how logs, alerts, and detections connect in a real SOC environment.
+
+### 🚀 Areas for Improvement
+- Expand my **KQL query skills** for deeper investigations.  
+- Investigate **Phishing Email**  
+- Develop **automated playbooks (Logic Apps)** for faster incident response.  
+- Continue improving my **incident documentation and report writing**.
 
 ---
 
