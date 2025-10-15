@@ -1,16 +1,21 @@
 
-# 🛡️ MyDFIR 30-Day Microsoft Challenge
+# 🛡️ MYDFIR 30-Day Microsoft Challenge
 
 ## 🎯 Purpose
-I’m sharing this project to demonstrate my passion for cybersecurity by publishing my learning journey and hands-on projects.  
-I aim to show continuous learning through practical, real-world labs that teach a Cloud SOC workflow.
+
+I recently joined the **MyDFIR SOC Communty Program**, which is designed to help participants gain **hands-on experience** and develop **job-ready cybersecurity skills** through practical labs, guided projects, and real-world simulations.  
+
+As part of this journey, I’m sharing my work on the **Microsoft 30-Day Security Challenge**, one of several projects within the program. 
+
+By documenting my progress, I aim to showcase my technical growth, demonstrate my ability to apply SOC concepts in real-world scenarios, and strengthen my expertise in cybersecurity operations.
+
 
 ---
 
 ## 📘 Project Overview
-This repository documents my progress in the **Microsoft 30-Day Security Challenge**, where I’m building and managing a **cloud-based Security Operations Center (SOC)** from scratch using **Microsoft Sentinel** and other Microsoft security tools.
+This repository documents my progress in the **Microsoft 30-Day Challenge**, where I’m building and managing a **cloud-based  (SOC)** from scratch using **Microsoft Sentinel** and other Microsoft security tools.
 
-The goal of this challenge is to gain **hands-on experience** in modern cloud SOC operations — from environment setup to incident investigation and response.
+The goal of this challenge is to gain hands-on experience in modern cloud SOC operations from environment setup to incident investigation and response, with a focus on phishing analysis, threat detection, and incident reporting.
 
 **Tools used**
 - Microsoft Sentinel  
@@ -47,14 +52,12 @@ The goal of this challenge is to gain **hands-on experience** in modern cloud SO
 
 ## 📦 Resources Created So Far
 - [x] Azure Subscription  
-- [x] Log Analytics Workspace  
+- [x] Create Azure VM 
 - [x] Microsoft Sentinel workspace  
 - [x] Connected Data Connectors: Microsoft 365, Defender for Endpoint, Entra ID  
 - [x] Custom Workbook / Dashboard (Screenshots in `/Screenshots`)  
 - [x] Bookmarks for investigations  
 - [x] Initial KQL queries and saved queries  
-- [ ] Playbooks / Automation (planned)  
-- [ ] Threat intelligence connector (planned)
 - [ ] Email Investigations 
 
 ---
